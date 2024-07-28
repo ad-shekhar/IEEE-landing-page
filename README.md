@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for an IEEE Landing Page project:
-
----
 
 # IEEE Landing Page
 
