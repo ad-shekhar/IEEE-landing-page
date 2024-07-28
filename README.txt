@@ -90,5 +90,13 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Contact
+
+For questions or support, please contact:
+
+- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
+- **IEEE Chapter/Organization**: [IEEE Chapter/Organization Name](http://ieee.chapter.website)
+
+---
 
 Feel free to customize the sections according to your specific needs and details.
